@@ -1,0 +1,29 @@
+{
+  "name": "qri",
+  "version": "0.1.0",
+  "description": "auto qr-code generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@github.com/toyamarinyon/qri"
+  },
+  "keywords": [
+    "javascript",
+    "qrcode"
+  ],
+  "author": "toyamarinyon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/toyamarinyon/qri/issues"
+  },
+  "homepage": "https://github.com/toyamarinyon/qri",
+  "devDependencies": {
+    "coffee-script": "^1.9.2",
+    "gulp": "^3.8.11",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^1.2.0"
+  }
+}
